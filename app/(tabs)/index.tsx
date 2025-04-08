@@ -16,7 +16,6 @@ export default function HomeScreen() {
         />
       }
     >
-      <TaskItem />
       {/* <ThemedView style={styles.titleContainer}>
         <ThemedText type="title">Welcome!</ThemedText>
         <HelloWave />
